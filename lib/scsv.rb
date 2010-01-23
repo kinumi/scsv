@@ -14,7 +14,7 @@ class SCSV
   }
   
   def self.parse(filename, options = {}, &block)
-    p options = DEFAULT_OPTIONS.merge(options)
+    options = DEFAULT_OPTIONS.merge(options)
     if block_given?
       parse_with_block(filename, options, &block)
     else
