@@ -1,3 +1,9 @@
+=== 0.2.0 2010-01-23
+
+* bug fix
+* add tests
+
 === 0.1.0 2010-01-23
 
 * first release
+

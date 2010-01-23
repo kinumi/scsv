@@ -5,7 +5,7 @@ $:.unshift(File.dirname(__FILE__)) unless
 # for COMMA separated file
 #
 class SCSV  
-  VERSION = '0.1.0'
+  VERSION = '0.2.0'
   
   DEFAULT_OPTIONS = {
     :col_sep  => ",",
