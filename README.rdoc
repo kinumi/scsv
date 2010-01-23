@@ -28,8 +28,7 @@ A simple CSV(and TSV) parser to convert line into the Hash using header info.
 
 == INSTALL:
 
-  gem sources -a http://gems.github.com
-  gem install kinumi-scsv
+  gem install scsv
 
 == LICENSE:
 
